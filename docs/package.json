@@ -16,7 +16,7 @@
   "dependencies": {
     "@alephdata/followthemoney": "^3.4.0",
     "@untitaker/hyperlink": "^0.1.26",
-    "astro": "^5.1.8",
+    "astro": "^5.5.6",
     "astro-theme-docs": "github:alephdata/astro-theme-docs"
   },
   "devDependencies": {
